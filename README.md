@@ -1,6 +1,6 @@
 # System Architecture and Project Structure
 
-![System Architecture](ESOGU-IFARLAB-Cloud-Application/build/meshes/system%20(1).png)
+![System Architecture](build/meshes/system_architecture.png)
 
 This document explains the general architecture of the system, server structures, and the communication between sub-components.
 
